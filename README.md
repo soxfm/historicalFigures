@@ -16,6 +16,6 @@ As such, it is completely biased and based upon personal knowledge.
 ### TOC
 ---
 
-  -- List of authors
-  -- Quotes Section
-  -- Subdirectories for tags which aim to provide some sort of organization to the data.
+ - List of authors
+ - Quotes Section
+ - Subdirectories for tags which aim to provide some sort of organization to the data.
